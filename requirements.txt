@@ -1,0 +1,4 @@
+discord.py==2.3.2
+python-dotenv==1.0.0
+requests==2.31.0
+# Make sure discord.py is 2.0+ for slash commands support
